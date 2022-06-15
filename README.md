@@ -5,7 +5,7 @@ Make a login function as well as a function to get a list of cats details from t
 This project is used php for development purpose to get a list of cats details from a url and return in a json object
 
 if want to run on local it would be below's url
-##[http://localhost/apis/index.php?svc=login]
+##[Login] (http://localhost/apis/index.php?svc=login) :
 
 This is a post method request where it need to pass in details as below in order for us to get the tokens
 request
@@ -25,7 +25,7 @@ respone
     "Valid": "15/06/22 08:49pm"
 }
 ```
-##[http://localhost/apis/index.php?svc=get]
+##[Get] (http://localhost/apis/index.php?svc=get) :
 
 This would require get method with the autentication set to bearer <token>
 This would get a limit of 100 records from url
