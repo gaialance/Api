@@ -1,0 +1,8 @@
+CREATE TABLE `userdetail` (
+ `usID` int(11) NOT NULL AUTO_INCREMENT,
+ `usName` varchar(100) NOT NULL,
+ `hashPass` varchar(255) DEFAULT NULL,
+ `status` smallint(6) DEFAULT NULL,
+ `currSession` varchar(255) DEFAULT NULL,
+ PRIMARY KEY (`usID`)
+)
