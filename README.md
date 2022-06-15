@@ -25,7 +25,7 @@ respone
     "Valid": "15/06/22 08:49pm"
 }
 ```
-##[Get] (http://localhost/apis/index.php?svc=get) :
+## [Get] (http://localhost/apis/index.php?svc=get) :
 
 This would require get method with the autentication set to bearer <token>
 This would get a limit of 100 records from url
