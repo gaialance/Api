@@ -1,5 +1,5 @@
 # Api
-Make a login function as well as a function to get a list of cats details from the web
+A project to test the api logic and everything
 
 # Note
 This project is used php for development purpose to get a list of cats details from a url and return in a json object
